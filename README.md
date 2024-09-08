@@ -8,6 +8,7 @@ I'm a software engineer in Tokyo.
 ### Blogs posts
 #### Zenn
 <!-- BLOG-POST-LIST:START -->
+- [爆速！デスクトップアプリの切り替え！（Ubuntu対象）](https://zenn.dev/yokojp/articles/6395c5f0a5a4ae)
 - [サーバサイドDartとFlutterを絡めたデモアプリ作ってみた所感](https://zenn.dev/yokojp/articles/f0460e86f6ef08)
 - [爆速！デスクトップアプリの切り替え！（Mac対象）](https://zenn.dev/yokojp/articles/a4939e92c3fc31)
 - [Flutterにて、既存ネイティブiOSからのセキュアデータ引き継ぎ方法](https://zenn.dev/yokojp/articles/0ff8fc44f48857)
